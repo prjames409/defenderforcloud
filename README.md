@@ -1,4 +1,4 @@
-# defenderforcloud
+# Defender for Cloud
 Welcome to our Pandas-based Automation Project! This code utilizes the particular libraries to simplify your analysist life. In this code, we allow the user to upload a .csv file  of Azure Defender Security Recommendations.
 
 Key Points: The downloaded Azure recommomendations csv file will need to be in the same folder as the this script. 
